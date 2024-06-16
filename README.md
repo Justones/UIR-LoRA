@@ -1,6 +1,6 @@
 <div align="center">
   <p align="center">
-    <img src="assets/logo.png" width="400">
+    <img src="assets/logo.jpeg" width="150">
 </p>
 <h2> 🏠: UIR-LoRA: Achieving Universal Image Restoration through Multiple Low-Rank Adaptation</h2>
   
@@ -18,7 +18,7 @@
 
 
 <p align="center">
-    <img src="assets/teaser.png">
+    <img src="assets/method.png" width="500">
 </p>
 
 ## :new: Update
