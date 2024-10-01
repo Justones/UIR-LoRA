@@ -16,7 +16,7 @@
 
 ## :new: Update
 
-- **16/06/2024** Create the project page
+- **16/06/2024** Create the repository
 - **30/09/2024** Submit the paper to Arxiv
 
 ## :gear: Installation
