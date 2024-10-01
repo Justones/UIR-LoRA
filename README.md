@@ -1,10 +1,8 @@
 <div align="center">
-  <p align="center">
-    <img src="assets/logo.jpeg" width="150">
-</p>
+
 <h2> 🏠 UIR-LoRA: Achieving Universal Image Restoration through Multiple Low-Rank Adaptation</h2>
   
-[![arXiv](https://img.shields.io/badge/arXiv-<INDEX>-<COLOR>.svg)](https://arxiv.org/pdf/2409.20197<INDEX>) 
+[![arXiv](https://img.shields.io/badge/arXiv-<INDEX>-<COLOR>.svg)](https://arxiv.org/pdf/2409.20197) 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Justones.UIR-LoRA)
 
 
